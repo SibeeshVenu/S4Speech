@@ -6,7 +6,8 @@
             "type": "node",
             "request": "launch",
             "args": [
-                "src/index.ts"
+                //"src/translation-api.ts",
+               "src/bing-speech-api.ts"
             ],
             "runtimeArgs": [
                 "-r",
